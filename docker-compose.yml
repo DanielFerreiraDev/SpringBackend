@@ -1,7 +1,7 @@
 version: '3'
 services:
   springbackend:
-    container_name: wildfly
+    container_name: springbackend
     build:
       context: .
       dockerfile: Dockerfile
