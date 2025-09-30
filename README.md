@@ -1,5 +1,7 @@
 # Spring Backend #
 
+Repositório padrão para um backend Java utilizando Spring Boot
+
 Backend com API's RESTFul.
 
 ## Índice ##
